@@ -68,7 +68,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'END:VCARD'
 
 prefix = "*"
-name = "~ AMJAD BOT"
+name = "~ SHIHAZOP BOT"
 rdaftar = "HALLO KAK MAKASIH UDH DAFTAR YAA😁"
 rmenu = "HALLO KAK😊"
 botinfo = "MAU SEWA DONASI DLU YA KAK:)"
